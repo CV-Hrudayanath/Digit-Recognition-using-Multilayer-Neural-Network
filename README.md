@@ -1,5 +1,5 @@
 # Multilayer Feedforward Neural Network with Backpropagation Learning
-Implementation of Handwritten digit recognizer using Neural Network.
+Implementation of Handwritten Digit Recognizer using Neural Network.
 
 
 # Dataset
