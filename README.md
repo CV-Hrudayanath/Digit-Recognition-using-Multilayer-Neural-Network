@@ -11,6 +11,9 @@ Considered all the 28x28 forming 784 pixels as the number of input nodes/units f
 We Feedforward the input to the network and then backpropagation learning is done.
 
 
+![alt tag](https://cloud.githubusercontent.com/assets/16488486/13374358/58420976-dda8-11e5-9e93-4f3c456662cd.png)
+
+
 
 
 
